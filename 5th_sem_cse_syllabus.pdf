@@ -1,0 +1,5 @@
+<a href="{{ url_for('static', filename='polytechnic_cse_syllabus.pdf') }}" download>
+   📘 Download Polytechnic CSE Syllabus (Direct Download)
+</a>
+ 
+ 
